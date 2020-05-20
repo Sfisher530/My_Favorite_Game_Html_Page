@@ -44,7 +44,7 @@
 Zombies Ate My Neighbors was originally developed by LucasArts. It was published by Konami, a company already known for platformers in 1993. Music for the game was composed by Joseph "Joe" McDermott. The game was developed on the Super Nintendo, before it was ported to the Sega Genesis about halfway through. The ZAMN engine would later be used for Ghoul Patrol(Figure 2), Metal Warriors and Big Sky Trooper. The developer wanted to include battery save in the game but was unable to as they could not afford it.</p>
 
 <figure>
-<img src="https://lh3.googleusercontent.com/proxy/UsRLrvt6geORkKK6xisgSkLTDfLP91zqTU2Jk9nFbpB4sxux7swJz7xv2HxfIh7CuIEmP1L6mE06wQj6Wh1vkZeHF7eejl1NK2tecVAsxPJFkr4UybDbcqBgioWNdPAMd_fQcxpq5rhkQnv_Vw" alt="Box art picture of the 'spin-off' game entitled: Goul Patrol" width="350" height="250">
+<img src="https://www.google.com/url?sa=i&url=http%3A%2F%2Frvgfanatic.com%2Fwordpress%2Findex.php%2Fghoul-patrol%2F&psig=AOvVaw1gcW4QBGEwJrazmkKliZzY&ust=1590103246290000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDO97DKw-kCFQAAAAAdAAAAABAM" width="350" height="250">
 <figcaption>Figure 2. After enourmous success Goul Patrol was repurposed to be a sequel for Zombies Ate My Neighbors.</figcaptioned>
 </figure>
 
