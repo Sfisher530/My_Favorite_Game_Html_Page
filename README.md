@@ -100,6 +100,7 @@ A sequel entitled Ghoul Patrol(figure 2) was released in 1994, but was not as we
 <li><a href="https://dailydead.com/status-update-zombies-ate-neighbors-movie/">Movie News</a></li>
 <li><a href="https://www.gamestop.com/video-games/retro-gaming/super-nintendo/games/products/zombies-ate-my-neighbors/10122710.html">Purchase Game</a></li>
 <li><a href="https://storage.googleapis.com/files.gamefroot.com/users/4080924/games/210107/gamefroot-2020-4-20T20-39-41.190Z/index.html">Gamefroot: Stop the Spread</a></li>
+<li><a href="https://www.w3schools.com/code/tryit.asp?filename=GEZOBYTV85B7">My Game</a></li>
 <li><a href="#">Top of Page</a></li>
 </ul>
 </nav>
