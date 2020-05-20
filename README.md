@@ -44,9 +44,11 @@
 Zombies Ate My Neighbors was originally developed by LucasArts. It was published by Konami, a company already known for platformers in 1993. Music for the game was composed by Joseph "Joe" McDermott. The game was developed on the Super Nintendo, before it was ported to the Sega Genesis about halfway through. The ZAMN engine would later be used for Ghoul Patrol(Figure 2), Metal Warriors and Big Sky Trooper. The developer wanted to include battery save in the game but was unable to as they could not afford it.</p>
 
 <figure>
-<img src="https://www.google.com/url?sa=i&url=http%3A%2F%2Frvgfanatic.com%2Fwordpress%2Findex.php%2Fghoul-patrol%2F&psig=AOvVaw1gcW4QBGEwJrazmkKliZzY&ust=1590103246290000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDO97DKw-kCFQAAAAAdAAAAABAM" width="350" height="250">
+<img src="https://upload.wikimedia.org/wikipedia/en/f/f1/GhoulpatrolSNES.JPG" alt="Picture of Gouil Patrol game cover" width="350" height="250">
 <figcaption>Figure 2. After enourmous success Goul Patrol was repurposed to be a sequel for Zombies Ate My Neighbors.</figcaptioned>
 </figure>
+
+<br>
 
 <p>The monsters in the game are based on classic horror films released in the 1950s and more modern films like Friday the 13th and The Texas Chain Saw Massacre. Weapon effectiveness is also based on these depictions; werewolves die in one hit if attacked with silverware and vampires die faster if attacked with the crucifix. In the SNES version of the game, there's a flamethrower which is not included in the Sega Mega Drive version. The North American release was released with a variant cover art in limited quantities(see figure 3).</p>
 
@@ -99,11 +101,10 @@ A sequel entitled Ghoul Patrol(figure 2) was released in 1994, but was not as we
 <ul>
 <li><a href="https://dailydead.com/status-update-zombies-ate-neighbors-movie/">Movie News</a></li>
 <li><a href="https://www.gamestop.com/video-games/retro-gaming/super-nintendo/games/products/zombies-ate-my-neighbors/10122710.html">Purchase Game</a></li>
-  <li><a href="https://youtu.be/Kwc9fGb9YXU">Official Game Trailer</a></li>
+<li><a href="https://youtu.be/Kwc9fGb9YXU">Official Game Trailer</a></li>
 <li><a href="https://www.w3schools.com/code/tryit.asp?filename=GEZOBYTV85B7">My Game</a></li>
 <li><a href="https://www.facebook.com/scott.fisher.313371/">My Social Media</a></li>
-<li><a href="https://storage.googleapis.com/files.gamefroot.com/users/4080924/games/210107/gamefroot-2020-4-20T20-39-41.190Z/index.html">Gamefroot: Stop the Spread</a></li>
-<li><a href="#">Top of Page</a></li>
+  <li><a href="https://storage.googleapis.com/files.gamefroot.com/users/4080924/games/210107/gamefroot-2020-4-20T20-39-41.190Z/index.html">Gamefroot: Stop the Spread</a></li>
 </ul>
 </nav>
 
